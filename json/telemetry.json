@@ -1,0 +1,1186 @@
+[
+  {
+    "telemetryId": 1,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.28,
+    "humidity": 34.79,
+    "pressure": 970.33,
+    "createDate": "2023-03-22T14:02:39.706"
+  },
+  {
+    "telemetryId": 2,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.26,
+    "humidity": 35.48,
+    "pressure": 970.32,
+    "createDate": "2023-03-22T14:03:43.455"
+  },
+  {
+    "telemetryId": 3,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.57,
+    "humidity": 34.77,
+    "pressure": 970.29,
+    "createDate": "2023-03-22T14:04:46.274"
+  },
+  {
+    "telemetryId": 4,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.81,
+    "humidity": 34.35,
+    "pressure": 970.3,
+    "createDate": "2023-03-22T14:05:50.69"
+  },
+  {
+    "telemetryId": 5,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.92,
+    "humidity": 34.2,
+    "pressure": 970.34,
+    "createDate": "2023-03-22T14:06:53.357"
+  },
+  {
+    "telemetryId": 6,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.95,
+    "humidity": 34.1,
+    "pressure": 970.32,
+    "createDate": "2023-03-22T14:07:56.098"
+  },
+  {
+    "telemetryId": 7,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.8,
+    "humidity": 34.28,
+    "pressure": 970.32,
+    "createDate": "2023-03-22T14:08:58.728"
+  },
+  {
+    "telemetryId": 8,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.62,
+    "humidity": 34.37,
+    "pressure": 970.32,
+    "createDate": "2023-03-22T14:10:00.795"
+  },
+  {
+    "telemetryId": 9,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.44,
+    "humidity": 34.55,
+    "pressure": 970.31,
+    "createDate": "2023-03-22T14:11:03.598"
+  },
+  {
+    "telemetryId": 10,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.5,
+    "humidity": 35.3,
+    "pressure": 970.32,
+    "createDate": "2023-03-22T14:12:07.323"
+  },
+  {
+    "telemetryId": 11,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.4,
+    "humidity": 35.17,
+    "pressure": 970.34,
+    "createDate": "2023-03-22T14:13:09.838"
+  },
+  {
+    "telemetryId": 12,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.91,
+    "humidity": 35.07,
+    "pressure": 970.36,
+    "createDate": "2023-03-22T14:14:12.538"
+  },
+  {
+    "telemetryId": 13,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.92,
+    "humidity": 34.46,
+    "pressure": 970.36,
+    "createDate": "2023-03-22T14:15:15.237"
+  },
+  {
+    "telemetryId": 14,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 24.04,
+    "humidity": 34.16,
+    "pressure": 970.37,
+    "createDate": "2023-03-22T14:16:18.107"
+  },
+  {
+    "telemetryId": 15,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 24.09,
+    "humidity": 34.27,
+    "pressure": 970.39,
+    "createDate": "2023-03-22T14:17:20.775"
+  },
+  {
+    "telemetryId": 16,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.94,
+    "humidity": 34.45,
+    "pressure": 970.38,
+    "createDate": "2023-03-22T14:18:23.08"
+  },
+  {
+    "telemetryId": 17,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.71,
+    "humidity": 34.65,
+    "pressure": 970.35,
+    "createDate": "2023-03-22T14:19:25.78"
+  },
+  {
+    "telemetryId": 18,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.56,
+    "humidity": 34.97,
+    "pressure": 970.35,
+    "createDate": "2023-03-22T14:20:29.696"
+  },
+  {
+    "telemetryId": 19,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.49,
+    "humidity": 34.99,
+    "pressure": 970.34,
+    "createDate": "2023-03-22T14:21:32.717"
+  },
+  {
+    "telemetryId": 20,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.41,
+    "humidity": 35.25,
+    "pressure": 970.35,
+    "createDate": "2023-03-22T14:22:36.756"
+  },
+  {
+    "telemetryId": 21,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.8,
+    "humidity": 34.44,
+    "pressure": 970.37,
+    "createDate": "2023-03-22T14:23:41.293"
+  },
+  {
+    "telemetryId": 22,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.89,
+    "humidity": 34.19,
+    "pressure": 970.37,
+    "createDate": "2023-03-22T14:24:44.356"
+  },
+  {
+    "telemetryId": 23,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 24.1,
+    "humidity": 33.98,
+    "pressure": 970.4,
+    "createDate": "2023-03-22T14:25:47.21"
+  },
+  {
+    "telemetryId": 24,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.96,
+    "humidity": 33.81,
+    "pressure": 970.41,
+    "createDate": "2023-03-22T14:26:50"
+  },
+  {
+    "telemetryId": 25,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.83,
+    "humidity": 34.29,
+    "pressure": 970.41,
+    "createDate": "2023-03-22T14:27:52.496"
+  },
+  {
+    "telemetryId": 26,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.6,
+    "humidity": 34.5,
+    "pressure": 970.39,
+    "createDate": "2023-03-22T14:28:56.399"
+  },
+  {
+    "telemetryId": 27,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.5,
+    "humidity": 35.39,
+    "pressure": 970.44,
+    "createDate": "2023-03-22T14:29:58.831"
+  },
+  {
+    "telemetryId": 28,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.38,
+    "humidity": 34.87,
+    "pressure": 970.47,
+    "createDate": "2023-03-22T14:31:01.492"
+  },
+  {
+    "telemetryId": 29,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.37,
+    "humidity": 35.39,
+    "pressure": 970.47,
+    "createDate": "2023-03-22T14:32:04.076"
+  },
+  {
+    "telemetryId": 30,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.64,
+    "humidity": 34.93,
+    "pressure": 970.47,
+    "createDate": "2023-03-22T14:33:06.739"
+  },
+  {
+    "telemetryId": 31,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.9,
+    "humidity": 34.91,
+    "pressure": 970.5,
+    "createDate": "2023-03-22T14:34:09.45"
+  },
+  {
+    "telemetryId": 32,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.88,
+    "humidity": 34.23,
+    "pressure": 970.48,
+    "createDate": "2023-03-22T14:35:12.241"
+  },
+  {
+    "telemetryId": 33,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.9,
+    "humidity": 34.33,
+    "pressure": 970.48,
+    "createDate": "2023-03-22T14:36:14.795"
+  },
+  {
+    "telemetryId": 34,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.71,
+    "humidity": 34.72,
+    "pressure": 970.44,
+    "createDate": "2023-03-22T14:37:17.386"
+  },
+  {
+    "telemetryId": 35,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.57,
+    "humidity": 34.66,
+    "pressure": 970.45,
+    "createDate": "2023-03-22T14:38:19.848"
+  },
+  {
+    "telemetryId": 36,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.47,
+    "humidity": 34.78,
+    "pressure": 970.44,
+    "createDate": "2023-03-22T14:39:22.401"
+  },
+  {
+    "telemetryId": 37,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.34,
+    "humidity": 35.21,
+    "pressure": 970.46,
+    "createDate": "2023-03-22T14:40:25.096"
+  },
+  {
+    "telemetryId": 38,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.5,
+    "humidity": 35.56,
+    "pressure": 970.44,
+    "createDate": "2023-03-22T14:41:29.524"
+  },
+  {
+    "telemetryId": 39,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.68,
+    "humidity": 34.86,
+    "pressure": 970.44,
+    "createDate": "2023-03-22T14:42:32.411"
+  },
+  {
+    "telemetryId": 40,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.84,
+    "humidity": 34.58,
+    "pressure": 970.51,
+    "createDate": "2023-03-22T14:43:34.594"
+  },
+  {
+    "telemetryId": 41,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 24.03,
+    "humidity": 34.63,
+    "pressure": 970.47,
+    "createDate": "2023-03-22T14:44:37.275"
+  },
+  {
+    "telemetryId": 42,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.98,
+    "humidity": 34.33,
+    "pressure": 970.46,
+    "createDate": "2023-03-22T14:45:48.813"
+  },
+  {
+    "telemetryId": 43,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.85,
+    "humidity": 34.39,
+    "pressure": 970.47,
+    "createDate": "2023-03-22T14:46:42.403"
+  },
+  {
+    "telemetryId": 44,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.63,
+    "humidity": 34.72,
+    "pressure": 970.45,
+    "createDate": "2023-03-22T14:47:44.862"
+  },
+  {
+    "telemetryId": 45,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.49,
+    "humidity": 34.83,
+    "pressure": 970.47,
+    "createDate": "2023-03-22T14:48:47.699"
+  },
+  {
+    "telemetryId": 46,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.37,
+    "humidity": 35.49,
+    "pressure": 970.45,
+    "createDate": "2023-03-22T14:49:50.001"
+  },
+  {
+    "telemetryId": 47,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.22,
+    "humidity": 35.83,
+    "pressure": 970.45,
+    "createDate": "2023-03-22T14:50:52.869"
+  },
+  {
+    "telemetryId": 48,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.13,
+    "humidity": 35.92,
+    "pressure": 970.44,
+    "createDate": "2023-03-22T14:51:55.362"
+  },
+  {
+    "telemetryId": 49,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.5,
+    "humidity": 35.69,
+    "pressure": 970.42,
+    "createDate": "2023-03-22T14:52:57.823"
+  },
+  {
+    "telemetryId": 50,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.7,
+    "humidity": 35.21,
+    "pressure": 970.43,
+    "createDate": "2023-03-22T14:54:00.271"
+  },
+  {
+    "telemetryId": 51,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.91,
+    "humidity": 34.96,
+    "pressure": 970.46,
+    "createDate": "2023-03-22T14:55:02.7"
+  },
+  {
+    "telemetryId": 52,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 24.03,
+    "humidity": 34.59,
+    "pressure": 970.51,
+    "createDate": "2023-03-22T14:56:06.225"
+  },
+  {
+    "telemetryId": 53,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.98,
+    "humidity": 34.99,
+    "pressure": 970.49,
+    "createDate": "2023-03-22T14:57:09.997"
+  },
+  {
+    "telemetryId": 54,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.76,
+    "humidity": 34.82,
+    "pressure": 970.49,
+    "createDate": "2023-03-22T14:58:11.661"
+  },
+  {
+    "telemetryId": 55,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.51,
+    "humidity": 35.15,
+    "pressure": 970.45,
+    "createDate": "2023-03-22T14:59:13.967"
+  },
+  {
+    "telemetryId": 56,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.39,
+    "humidity": 35.43,
+    "pressure": 970.47,
+    "createDate": "2023-03-22T15:00:18.398"
+  },
+  {
+    "telemetryId": 57,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.31,
+    "humidity": 35.56,
+    "pressure": 970.5,
+    "createDate": "2023-03-22T15:01:21.061"
+  },
+  {
+    "telemetryId": 58,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.23,
+    "humidity": 35.35,
+    "pressure": 970.49,
+    "createDate": "2023-03-22T15:02:23.787"
+  },
+  {
+    "telemetryId": 59,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.31,
+    "humidity": 35.5,
+    "pressure": 970.51,
+    "createDate": "2023-03-22T15:03:26.234"
+  },
+  {
+    "telemetryId": 60,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.6,
+    "humidity": 35.22,
+    "pressure": 970.52,
+    "createDate": "2023-03-22T15:04:28.608"
+  },
+  {
+    "telemetryId": 61,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.86,
+    "humidity": 34.58,
+    "pressure": 970.52,
+    "createDate": "2023-03-22T15:05:31.165"
+  },
+  {
+    "telemetryId": 62,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 24.01,
+    "humidity": 34.39,
+    "pressure": 970.53,
+    "createDate": "2023-03-22T15:06:33.799"
+  },
+  {
+    "telemetryId": 63,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.93,
+    "humidity": 34.7,
+    "pressure": 970.56,
+    "createDate": "2023-03-22T15:07:37.341"
+  },
+  {
+    "telemetryId": 64,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.65,
+    "humidity": 34.61,
+    "pressure": 970.53,
+    "createDate": "2023-03-22T15:08:39.988"
+  },
+  {
+    "telemetryId": 65,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.4,
+    "humidity": 35.24,
+    "pressure": 970.57,
+    "createDate": "2023-03-22T15:09:42.435"
+  },
+  {
+    "telemetryId": 66,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.31,
+    "humidity": 35.26,
+    "pressure": 970.54,
+    "createDate": "2023-03-22T15:10:45.333"
+  },
+  {
+    "telemetryId": 67,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.21,
+    "humidity": 35.25,
+    "pressure": 970.57,
+    "createDate": "2023-03-22T15:11:47.592"
+  },
+  {
+    "telemetryId": 68,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.1,
+    "humidity": 35.85,
+    "pressure": 970.54,
+    "createDate": "2023-03-22T15:12:50.427"
+  },
+  {
+    "telemetryId": 69,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.3,
+    "humidity": 35.68,
+    "pressure": 970.57,
+    "createDate": "2023-03-22T15:13:52.843"
+  },
+  {
+    "telemetryId": 70,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.49,
+    "humidity": 35.13,
+    "pressure": 970.57,
+    "createDate": "2023-03-22T15:14:55.149"
+  },
+  {
+    "telemetryId": 71,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.79,
+    "humidity": 34.81,
+    "pressure": 970.62,
+    "createDate": "2023-03-22T15:15:57.878"
+  },
+  {
+    "telemetryId": 72,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.84,
+    "humidity": 34.5,
+    "pressure": 970.62,
+    "createDate": "2023-03-22T15:17:00.573"
+  },
+  {
+    "telemetryId": 73,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.81,
+    "humidity": 34.52,
+    "pressure": 970.64,
+    "createDate": "2023-03-22T15:18:04.946"
+  },
+  {
+    "telemetryId": 74,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.59,
+    "humidity": 34.8,
+    "pressure": 970.62,
+    "createDate": "2023-03-22T15:19:06.296"
+  },
+  {
+    "telemetryId": 75,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.45,
+    "humidity": 35.15,
+    "pressure": 970.66,
+    "createDate": "2023-03-22T15:20:09.981"
+  },
+  {
+    "telemetryId": 76,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.34,
+    "humidity": 35.12,
+    "pressure": 970.65,
+    "createDate": "2023-03-22T15:21:12.692"
+  },
+  {
+    "telemetryId": 77,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.35,
+    "humidity": 35.57,
+    "pressure": 970.68,
+    "createDate": "2023-03-22T15:22:15.321"
+  },
+  {
+    "telemetryId": 78,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.52,
+    "humidity": 35.52,
+    "pressure": 970.68,
+    "createDate": "2023-03-22T15:23:18.054"
+  },
+  {
+    "telemetryId": 79,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.64,
+    "humidity": 35.08,
+    "pressure": 970.68,
+    "createDate": "2023-03-22T15:24:21.857"
+  },
+  {
+    "telemetryId": 80,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.66,
+    "humidity": 34.57,
+    "pressure": 970.7,
+    "createDate": "2023-03-22T15:25:24.179"
+  },
+  {
+    "telemetryId": 81,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.85,
+    "humidity": 34.71,
+    "pressure": 970.76,
+    "createDate": "2023-03-22T15:26:27.281"
+  },
+  {
+    "telemetryId": 82,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.83,
+    "humidity": 34.43,
+    "pressure": 970.72,
+    "createDate": "2023-03-22T15:27:29.606"
+  },
+  {
+    "telemetryId": 83,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.69,
+    "humidity": 34.36,
+    "pressure": 970.71,
+    "createDate": "2023-03-22T15:28:32.364"
+  },
+  {
+    "telemetryId": 84,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.44,
+    "humidity": 34.84,
+    "pressure": 970.75,
+    "createDate": "2023-03-22T15:29:34.728"
+  },
+  {
+    "telemetryId": 85,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.29,
+    "humidity": 35.12,
+    "pressure": 970.76,
+    "createDate": "2023-03-22T15:30:39.299"
+  },
+  {
+    "telemetryId": 86,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.18,
+    "humidity": 35.32,
+    "pressure": 970.8,
+    "createDate": "2023-03-22T15:31:42.274"
+  },
+  {
+    "telemetryId": 87,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.07,
+    "humidity": 35.68,
+    "pressure": 970.76,
+    "createDate": "2023-03-22T15:32:45"
+  },
+  {
+    "telemetryId": 88,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.24,
+    "humidity": 35.44,
+    "pressure": 970.81,
+    "createDate": "2023-03-22T15:33:47.666"
+  },
+  {
+    "telemetryId": 89,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.42,
+    "humidity": 35.12,
+    "pressure": 970.76,
+    "createDate": "2023-03-22T15:34:50.444"
+  },
+  {
+    "telemetryId": 90,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.69,
+    "humidity": 35,
+    "pressure": 970.74,
+    "createDate": "2023-03-22T15:35:53.144"
+  },
+  {
+    "telemetryId": 91,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.88,
+    "humidity": 34.68,
+    "pressure": 970.79,
+    "createDate": "2023-03-22T15:36:55.843"
+  },
+  {
+    "telemetryId": 92,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.88,
+    "humidity": 34.28,
+    "pressure": 970.8,
+    "createDate": "2023-03-22T15:37:58.581"
+  },
+  {
+    "telemetryId": 93,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.65,
+    "humidity": 34.56,
+    "pressure": 970.8,
+    "createDate": "2023-03-22T15:39:01.197"
+  },
+  {
+    "telemetryId": 94,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.46,
+    "humidity": 34.86,
+    "pressure": 970.81,
+    "createDate": "2023-03-22T15:40:05.642"
+  },
+  {
+    "telemetryId": 95,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.38,
+    "humidity": 34.99,
+    "pressure": 970.8,
+    "createDate": "2023-03-22T15:41:09.625"
+  },
+  {
+    "telemetryId": 96,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.27,
+    "humidity": 35.22,
+    "pressure": 970.81,
+    "createDate": "2023-03-22T15:42:16.225"
+  },
+  {
+    "telemetryId": 97,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.39,
+    "humidity": 34.95,
+    "pressure": 970.82,
+    "createDate": "2023-03-22T15:43:19.5"
+  },
+  {
+    "telemetryId": 98,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.54,
+    "humidity": 34.82,
+    "pressure": 970.84,
+    "createDate": "2023-03-22T15:44:23.355"
+  },
+  {
+    "telemetryId": 99,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.79,
+    "humidity": 34.62,
+    "pressure": 970.83,
+    "createDate": "2023-03-22T15:45:26.602"
+  },
+  {
+    "telemetryId": 100,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.83,
+    "humidity": 34.48,
+    "pressure": 970.85,
+    "createDate": "2023-03-22T15:46:30.203"
+  },
+  {
+    "telemetryId": 101,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.67,
+    "humidity": 34.49,
+    "pressure": 970.81,
+    "createDate": "2023-03-22T15:47:32.825"
+  },
+  {
+    "telemetryId": 102,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.52,
+    "humidity": 34.7,
+    "pressure": 970.85,
+    "createDate": "2023-03-22T15:48:35.511"
+  },
+  {
+    "telemetryId": 103,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.35,
+    "humidity": 34.97,
+    "pressure": 970.85,
+    "createDate": "2023-03-22T15:49:38.226"
+  },
+  {
+    "telemetryId": 104,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.31,
+    "humidity": 34.99,
+    "pressure": 970.87,
+    "createDate": "2023-03-22T15:50:40.845"
+  },
+  {
+    "telemetryId": 105,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.18,
+    "humidity": 35.51,
+    "pressure": 970.9,
+    "createDate": "2023-03-22T15:51:43.147"
+  },
+  {
+    "telemetryId": 106,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.11,
+    "humidity": 35.78,
+    "pressure": 970.94,
+    "createDate": "2023-03-22T15:52:45.999"
+  },
+  {
+    "telemetryId": 107,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.29,
+    "humidity": 35.25,
+    "pressure": 970.91,
+    "createDate": "2023-03-22T15:53:48.431"
+  },
+  {
+    "telemetryId": 108,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.63,
+    "humidity": 34.84,
+    "pressure": 970.93,
+    "createDate": "2023-03-22T15:54:51.206"
+  },
+  {
+    "telemetryId": 109,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.87,
+    "humidity": 34.75,
+    "pressure": 970.9,
+    "createDate": "2023-03-22T15:55:53.845"
+  },
+  {
+    "telemetryId": 110,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.94,
+    "humidity": 34.23,
+    "pressure": 970.92,
+    "createDate": "2023-03-22T15:56:56.366"
+  },
+  {
+    "telemetryId": 111,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.9,
+    "humidity": 34.35,
+    "pressure": 970.93,
+    "createDate": "2023-03-22T15:57:58.827"
+  },
+  {
+    "telemetryId": 112,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.73,
+    "humidity": 34.47,
+    "pressure": 970.93,
+    "createDate": "2023-03-22T15:59:01.676"
+  },
+  {
+    "telemetryId": 113,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.57,
+    "humidity": 34.64,
+    "pressure": 970.9,
+    "createDate": "2023-03-22T16:00:04.386"
+  },
+  {
+    "telemetryId": 114,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.42,
+    "humidity": 34.75,
+    "pressure": 970.94,
+    "createDate": "2023-03-22T16:01:06.697"
+  },
+  {
+    "telemetryId": 115,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.38,
+    "humidity": 34.86,
+    "pressure": 970.95,
+    "createDate": "2023-03-22T16:02:09.406"
+  },
+  {
+    "telemetryId": 116,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.5,
+    "humidity": 34.84,
+    "pressure": 970.96,
+    "createDate": "2023-03-22T16:03:12.273"
+  },
+  {
+    "telemetryId": 117,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.75,
+    "humidity": 34.78,
+    "pressure": 970.97,
+    "createDate": "2023-03-22T16:04:16.017"
+  },
+  {
+    "telemetryId": 118,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.91,
+    "humidity": 34.78,
+    "pressure": 971.03,
+    "createDate": "2023-03-22T16:05:18.692"
+  },
+  {
+    "telemetryId": 119,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 24.08,
+    "humidity": 34.24,
+    "pressure": 970.97,
+    "createDate": "2023-03-22T16:06:23.567"
+  },
+  {
+    "telemetryId": 120,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.97,
+    "humidity": 34.35,
+    "pressure": 971,
+    "createDate": "2023-03-22T16:07:26.153"
+  },
+  {
+    "telemetryId": 121,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.69,
+    "humidity": 34.67,
+    "pressure": 971.01,
+    "createDate": "2023-03-22T16:08:29.645"
+  },
+  {
+    "telemetryId": 122,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.47,
+    "humidity": 34.89,
+    "pressure": 971.05,
+    "createDate": "2023-03-22T16:09:33.743"
+  },
+  {
+    "telemetryId": 123,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.33,
+    "humidity": 35.14,
+    "pressure": 971.02,
+    "createDate": "2023-03-22T16:10:36.092"
+  },
+  {
+    "telemetryId": 124,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.22,
+    "humidity": 35.66,
+    "pressure": 971.04,
+    "createDate": "2023-03-22T16:11:38.696"
+  },
+  {
+    "telemetryId": 125,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.18,
+    "humidity": 35.87,
+    "pressure": 971.1,
+    "createDate": "2023-03-22T16:12:41.24"
+  },
+  {
+    "telemetryId": 126,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.37,
+    "humidity": 35.61,
+    "pressure": 971.05,
+    "createDate": "2023-03-22T16:13:45.895"
+  },
+  {
+    "telemetryId": 127,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.57,
+    "humidity": 34.99,
+    "pressure": 971.07,
+    "createDate": "2023-03-22T16:14:48.552"
+  },
+  {
+    "telemetryId": 128,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.92,
+    "humidity": 34.66,
+    "pressure": 971.13,
+    "createDate": "2023-03-22T16:15:50.845"
+  },
+  {
+    "telemetryId": 129,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 24.06,
+    "humidity": 33.99,
+    "pressure": 971.1,
+    "createDate": "2023-03-22T16:16:53.558"
+  },
+  {
+    "telemetryId": 130,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 24.03,
+    "humidity": 34.09,
+    "pressure": 971.08,
+    "createDate": "2023-03-22T16:17:56.442"
+  },
+  {
+    "telemetryId": 131,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.78,
+    "humidity": 34.21,
+    "pressure": 971.1,
+    "createDate": "2023-03-22T16:19:00.057"
+  },
+  {
+    "telemetryId": 132,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.59,
+    "humidity": 34.65,
+    "pressure": 971.13,
+    "createDate": "2023-03-22T16:20:03.128"
+  },
+  {
+    "telemetryId": 133,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.46,
+    "humidity": 34.79,
+    "pressure": 971.13,
+    "createDate": "2023-03-22T16:21:06.043"
+  },
+  {
+    "telemetryId": 134,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.36,
+    "humidity": 34.76,
+    "pressure": 971.11,
+    "createDate": "2023-03-22T16:22:08.957"
+  },
+  {
+    "telemetryId": 135,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.31,
+    "humidity": 35.13,
+    "pressure": 971.14,
+    "createDate": "2023-03-22T16:23:11.416"
+  },
+  {
+    "telemetryId": 136,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.41,
+    "humidity": 35.13,
+    "pressure": 971.13,
+    "createDate": "2023-03-22T16:24:14.038"
+  },
+  {
+    "telemetryId": 137,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.63,
+    "humidity": 34.85,
+    "pressure": 971.13,
+    "createDate": "2023-03-22T16:25:17.987"
+  },
+  {
+    "telemetryId": 138,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.84,
+    "humidity": 34.34,
+    "pressure": 971.16,
+    "createDate": "2023-03-22T16:26:22.608"
+  },
+  {
+    "telemetryId": 139,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 24.06,
+    "humidity": 33.9,
+    "pressure": 971.13,
+    "createDate": "2023-03-22T16:27:24.931"
+  },
+  {
+    "telemetryId": 140,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.91,
+    "humidity": 34.35,
+    "pressure": 971.14,
+    "createDate": "2023-03-22T16:28:27.626"
+  },
+  {
+    "telemetryId": 141,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.64,
+    "humidity": 34.49,
+    "pressure": 971.13,
+    "createDate": "2023-03-22T16:29:30.114"
+  },
+  {
+    "telemetryId": 142,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.48,
+    "humidity": 34.92,
+    "pressure": 971.16,
+    "createDate": "2023-03-22T16:30:32.953"
+  },
+  {
+    "telemetryId": 143,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.34,
+    "humidity": 34.94,
+    "pressure": 971.14,
+    "createDate": "2023-03-22T16:31:35.523"
+  },
+  {
+    "telemetryId": 144,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.18,
+    "humidity": 35.08,
+    "pressure": 971.17,
+    "createDate": "2023-03-22T16:32:38.365"
+  },
+  {
+    "telemetryId": 145,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.08,
+    "humidity": 35.39,
+    "pressure": 971.18,
+    "createDate": "2023-03-22T16:33:41.045"
+  },
+  {
+    "telemetryId": 146,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.2,
+    "humidity": 35.31,
+    "pressure": 971.21,
+    "createDate": "2023-03-22T16:34:43.572"
+  },
+  {
+    "telemetryId": 147,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.48,
+    "humidity": 34.58,
+    "pressure": 971.16,
+    "createDate": "2023-03-22T16:35:46.208"
+  },
+  {
+    "telemetryId": 148,
+    "deviceId": "InsideSensorBottom",
+    "temperature": 23.7,
+    "humidity": 34.55,
+    "pressure": 971.19,
+    "createDate": "2023-03-22T16:36:48.923"
+  }
+]
